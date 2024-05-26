@@ -630,9 +630,9 @@ header>div#logo>a>img
 }
 
 #block_one{
+	background-image: url(../img/фон.png);
 	width:695px;
 	height:561px;
-	background-color:#FF6642;
 }
 
 #block_two{
